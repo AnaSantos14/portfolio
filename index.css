@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2? family= Ms+Madi & display=swap');
+
+body {
+    background-color: rgb(245,245,239);
+    color: black;
+    font-family:'msmadi';
+    min-width: 320px;
+    max-width: 1200px;
+}
+
+.barra_superior {
+    min-width: 320px;
+    max-width: 1200px;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 170px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+}
+
+img {
+    width: 100%;
+}
+h1 {
+    color: rgb(87, 107, 192);
+    margin-left: 0px;
+    text-align: center;
+}
+
+a {
+    color: rgb(129, 52, 52);
+    text-decoration: none;
+}
+
+footer { 
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    
+    
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+}
+
+.p_footer {
+    margin: 20px 20px;
+    padding: 20px 30px;
+    text-align: center;
+    margin-left: -200px;
+    margin-right: -200px;
+}
+
+p{
+    color:rgb(82, 72, 72);
+    padding: 20px 30px;
+    text-align: left;
+    padding-left: 50px;
+    border-radius: 20px;   
+}
